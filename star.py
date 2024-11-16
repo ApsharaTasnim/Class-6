@@ -11,15 +11,17 @@ board.left(120)
 board.forward(100)
 
 board.penup()
-board.right(120)
-board.forward(100)
+board.right(150)
+board.forward(60)
 
 board.pendown()
-board.forward(100)
 
-board.right(120)
+
+board.right(90)
 board.forward(100) 
 
+board.right(120)
+board.forward(100)
 board.right(120)
 board.forward(100)
 turtle.done()
